@@ -1,4 +1,4 @@
-# Project Title
+# GWELL
 
 This project focus on wellbeing of gamers and anyone who considers a bit seriousness in gaming. It uses gaming webcam to collect information regarding your mental state. It helps to give you an approx. idea of how your state of mind after a gaming session. Now whats the importance. Well ofcourse its important to get an idea of your mental state as it shows your health too. Gaming rage can be a serious issue if not controlled<br>
 
